@@ -1,5 +1,5 @@
 // URL oficial do backend hospedado no Render (sem a barra "/" no final)
-const URL_API = 'https://projeto-final-web-2026-back.onrender.com';
+const URL_API = 'https://deploy-backend-3tsr.onrender.com/';
 
 // Seleciona os elementos do HTML que precisamos manipular via código
 const formulario = document.getElementById('formularioUsuario');
